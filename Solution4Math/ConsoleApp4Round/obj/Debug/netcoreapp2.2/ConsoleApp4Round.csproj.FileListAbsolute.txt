@@ -1,0 +1,11 @@
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\bin\Debug\netcoreapp2.2\ConsoleApp4Round.deps.json
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\bin\Debug\netcoreapp2.2\ConsoleApp4Round.runtimeconfig.json
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\bin\Debug\netcoreapp2.2\ConsoleApp4Round.runtimeconfig.dev.json
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\bin\Debug\netcoreapp2.2\ConsoleApp4Round.dll
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\bin\Debug\netcoreapp2.2\ConsoleApp4Round.pdb
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\obj\Debug\netcoreapp2.2\ConsoleApp4Round.csprojAssemblyReference.cache
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\obj\Debug\netcoreapp2.2\ConsoleApp4Round.csproj.CoreCompileInputs.cache
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\obj\Debug\netcoreapp2.2\ConsoleApp4Round.AssemblyInfoInputs.cache
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\obj\Debug\netcoreapp2.2\ConsoleApp4Round.AssemblyInfo.cs
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\obj\Debug\netcoreapp2.2\ConsoleApp4Round.dll
+D:\Users\udoug\source\repos\MyMathRule\Solution4Math\ConsoleApp4Round\obj\Debug\netcoreapp2.2\ConsoleApp4Round.pdb
